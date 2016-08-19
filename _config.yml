@@ -1,4 +1,3 @@
-layout_spectrum: 0.3720919550396502
 typography_spectrum: 0.949153299909085
 color:
   brandStrength: 0.14084977097809315
@@ -6,9 +5,11 @@ color:
   saturation: 0.433124820003286
   rhythmicContrast: 0.3266993658617139
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.3720919550396502
 name: GINNEL
+title: pathways through the isles
